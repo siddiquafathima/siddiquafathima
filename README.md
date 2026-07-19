@@ -222,7 +222,7 @@ An intelligent dermatology assistant that combines **Computer Vision**, **LLMs**
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME/DermaAssist-AI-Agent">
+<a href="https://github.com/siddiquafathima/DermaAssist-AI-Agent">
 <img src="https://img.shields.io/badge/View%20Repository-EF93C4?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
@@ -252,7 +252,7 @@ A production-ready **GenAI analytics platform** that transforms customer feedbac
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME/customer-feedback-insights">
+<a href="https://github.com/siddiquafathima/customer-feedback-insights">
 
 <img src="https://img.shields.io/badge/View%20Repository-EF93C4?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -287,7 +287,7 @@ An end-to-end Machine Learning application that predicts customer churn and reco
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME/AI-Churn-Revenue-Optimization-System">
+<a href="https://github.com/siddiquafathima/AI-Churn-Revenue-Optimization-System">
 
 <img src="https://img.shields.io/badge/View%20Repository-EF93C4?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -317,7 +317,7 @@ A multi-agent emergency response simulation platform designed to model disaster 
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME/CrisisFlow">
+<a href="https://github.com/siddiquafathima/CrisisFlow">
 
 <img src="https://img.shields.io/badge/View%20Repository-EF93C4?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -369,9 +369,9 @@ A multi-agent emergency response simulation platform designed to model disaster 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=EF93C4&icon_color=FF69B4"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=siddiquafathima&show_icons=true&theme=transparent&hide_border=true&title_color=EF93C4&icon_color=FF69B4"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=EF93C4"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiquafathima&layout=compact&theme=transparent&hide_border=true&title_color=EF93C4"/>
 
 </div>
 
@@ -379,7 +379,7 @@ A multi-agent emergency response simulation platform designed to model disaster 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4"/>
+<img src="https://streak-stats.demolab.com?user=siddiquafathima&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4"/>
 
 </div>
 
@@ -389,7 +389,7 @@ A multi-agent emergency response simulation platform designed to model disaster 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=ffffff&color=EF93C4&line=FF69B4&point=F8BBD0"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddiquafathima&theme=github-compact&hide_border=true&bg_color=ffffff&color=EF93C4&line=FF69B4&point=F8BBD0"/>
 
 </div>
 
@@ -435,23 +435,23 @@ I enjoy collaborating on <b>AI Engineering</b>, <b>Generative AI</b>, <b>LLM App
 
 <br>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/siddiqua-fathima-126b98212">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:siddiquafathima3@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/YOUR_USERNAME">
+<a href="https://www.kaggle.com/siddiquafathima">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-<a href="https://huggingface.co/YOUR_USERNAME">
+<a href="https://huggingface.co/siddiquafathima">
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/siddiquafathima">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -497,7 +497,7 @@ If you like my work and find my projects useful,
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/siddiquafathima/siddiquafathima/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -518,7 +518,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: siddiquafathima
           outputs: |
             dist/github-contribution-grid-snake.svg
 
@@ -558,7 +558,7 @@ I'm passionate about turning research ideas into production-ready AI systems tha
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=ff69b4"/>
+<img src="https://komarev.com/ghpvc/?username=siddiquafathima&style=for-the-badge&color=ff69b4"/>
 
 </div>
 
