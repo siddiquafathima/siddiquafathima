@@ -1,10 +1,9 @@
-
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Siddiqua Fathima" src="dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="art/header-light.png">
+  <img alt="Siddiqua Fathima" src="art/header-light.png" width="100%">
 </picture>
 
 <br><br>
