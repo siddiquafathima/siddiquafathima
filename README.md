@@ -496,15 +496,9 @@ If you like my work and find my projects useful,
 
 
 
-<div align="center">
-
-
-
-<img src="https://raw.githubusercontent.com/siddiquafathima/siddiquafathima/output/github-contribution-grid-snake.svg"/>
-
-
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/siddiquafathima/siddiquafathima/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 
 
