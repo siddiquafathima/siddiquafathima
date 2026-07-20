@@ -252,7 +252,7 @@ A production-ready **GenAI analytics platform** that transforms customer feedbac
 
 <p align="center">
 
-<a href="https://github.com/siddiquafathima/customer-feedback-insights">
+<a href="https://github.com/siddiquafathima/feedback-insights-pipeline">
 
 <img src="https://img.shields.io/badge/View%20Repository-EF93C4?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -287,7 +287,7 @@ An end-to-end Machine Learning application that predicts customer churn and reco
 
 <p align="center">
 
-<a href="https://github.com/siddiquafathima/AI-Churn-Revenue-Optimization-System">
+<a href="https://github.com/siddiquafathima/AI-Churn-Revenue-Optimization">
 
 <img src="https://img.shields.io/badge/View%20Repository-EF93C4?style=for-the-badge&logo=github&logoColor=white"/>
 
