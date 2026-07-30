@@ -252,7 +252,7 @@ A production-ready **GenAI analytics platform** that transforms customer feedbac
 
 <p align="center">
 
-<a href="https://github.com/siddiquafathima/feedback-insights-pipeline">
+<a href="https://github.com/siddiquafathima/feedback-insights-pipeline-agent">
 
 <img src="https://img.shields.io/badge/View%20Repository-EF93C4?style=for-the-badge&logo=github&logoColor=white"/>
 
